@@ -1,5 +1,13 @@
 # employee-service-api
 
+This is a test project to demonstrate employee management using with Spring Boot. It contains,
+
+Store, update, delete and retrieve employee data.
+Store/Update employee data.
+Assign/Change employee to department.
+Assign/Change employee to supervisor, salary scale and office related detail.
+Add/Update/Delete employee family member details.
+
 ## Requirements
 
 For building and running the application you need:
