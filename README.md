@@ -56,3 +56,9 @@ This will create and rest api:
 * Heroku App: employee-service-api
 * Swagger Url: https://employee-service-api.herokuapp.com/swagger-ui.html#
 
+## Assumptions
+
+- None of the family members can't be a relation to multiple employees
+- Employees can exsits without supervisor 
+- Salary scale is shared with multiple employees
+
